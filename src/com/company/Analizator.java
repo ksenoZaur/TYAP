@@ -813,11 +813,9 @@ public class Analizator {
 
     public boolean expression() {
 
-//        int expressionTriadIndex = this.triadBuilder.create();
-
-//        String operator;
-//        String operandOne;
-//        String operatdTwo;
+        String operatorTriad;
+        String operandOne;
+        String operandTwo;
 
         ArrayList<Character> l = new ArrayList<>();
         Integer saveLEX = this.scaner.getUK();
@@ -838,6 +836,7 @@ public class Analizator {
 
             type1 = this.currentType;
             data1 = this.currentData;
+            operandOne = this.resultTriad;
 
         } else {
             this.scaner.PrintError("Ожидался тип TYPE_INT_10 | TYPE_FLOAT | ID | ( ", l);
@@ -852,7 +851,9 @@ public class Analizator {
         this.scaner.setUK(saveLEX);
 
         while (this.currentLEX == Scaner._EQUALLY || this.currentLEX == Scaner._NOT_EQUALLY) {
+
             operator = new ArrayList<>(l);
+            operatorTriad = Semantic.convertToString( operator );
 
             Integer type2 = null;
             TData data2 = null;
@@ -870,12 +871,22 @@ public class Analizator {
                 }
                 type2 = this.currentType;
                 data2 = this.currentData;
+                operandTwo = this.resultTriad;
             } else {
                 this.scaner.PrintError("Ожидался тип TYPE_INT_10 | TYPE_FLOAT | ID | ( ", l);
                 return false;
             }
 
             this.currentData = this.sema.sem23(data1, data2, operator);
+
+
+            int indexExpressionTriad = this.triadBuilder.create(operatorTriad, operandOne, operandTwo);
+            this.triadBuilder.print( indexExpressionTriad );
+            this.resultTriad = String.valueOf( indexExpressionTriad ) + ")";
+
+            type1 = this.currentType;
+            data1 = this.currentData;
+            operandOne = this.resultTriad;
 
             saveLEX = this.scaner.getUK();
             this.currentLEX = this.scaner.next(l);
@@ -886,6 +897,11 @@ public class Analizator {
     }
 
     private boolean a2() {
+
+        String operatorTriad;
+        String operandOne;
+        String operandTwo;
+
         ArrayList<Character> l = new ArrayList<>();
         Integer saveLEX = this.scaner.getUK();
         this.currentLEX = this.scaner.next(l);
@@ -904,6 +920,7 @@ public class Analizator {
 
             type1 = this.currentType;
             data1 = this.currentData;
+            operandOne = this.resultTriad;
 
         } else {
             this.scaner.PrintError("Ожидался тип TYPE_INT_10 | TYPE_FLOAT | ID | ( ", l);
@@ -920,6 +937,8 @@ public class Analizator {
                 this.currentLEX == Scaner._LESS_EQUALLY || this.currentLEX == Scaner._GREAT_EQUALLY) {
 
             operator = new ArrayList<>(l);
+            operatorTriad= Semantic.convertToString( operator );
+
             Integer type2 = null;
             TData data2 = null;
 
@@ -937,6 +956,7 @@ public class Analizator {
                 }
                 type2 = this.currentType;
                 data2 = this.currentData;
+                operandTwo = this.resultTriad;
             } else {
                 this.scaner.PrintError("Ожидался тип TYPE_INT_10 | TYPE_FLOAT | ID | ( ", l);
                 return false;
@@ -944,6 +964,14 @@ public class Analizator {
 
             //this.currentType = this.sema.sem23(type1, type2, operator);
             this.currentData = this.sema.sem23(data1, data2, operator);
+
+            int indexA2Triad = this.triadBuilder.create(operatorTriad, operandOne, operandTwo);
+            this.triadBuilder.print( indexA2Triad );
+            this.resultTriad = String.valueOf( indexA2Triad ) + ")";
+
+            type1 = this.currentType;
+            data1 = this.currentData;
+            operandOne = this.resultTriad;
 
             // ??????????????????
             saveLEX = this.scaner.getUK();
@@ -1116,6 +1144,9 @@ public class Analizator {
             this.triadBuilder.print( indexA4Triad );
             this.resultTriad = String.valueOf( indexA4Triad ) + ")";
 
+            type1 = this.currentType;
+            data1 = this.currentData;
+            operandOne = this.resultTriad;
             // ??????????????????
             saveLEX = this.scaner.getUK();
             this.currentLEX = this.scaner.next(l);
