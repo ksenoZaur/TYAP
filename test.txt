@@ -1,0 +1,7 @@
+
+int main(){
+
+ int sobaka;
+ sobaka = 2 + 5 * 3 + 1 / 7 ;
+
+}

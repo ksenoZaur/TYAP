@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="254a96e0-a118-493c-ab4c-890a81e91e82" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LAB_4_YAZIK$Main.ic" NAME="Main Coverage Results" MODIFIED="1538744863843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Analizator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="1141" selection-start-line="1141" selection-end-line="1141" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#361#607#0" />
+                <element signature="e#613#3471#0" />
+                <element signature="e#3477#6753#0" />
+                <element signature="e#6759#9261#0" />
+                <element signature="e#9267#10855#0" />
+                <element signature="e#10861#16748#0" />
+                <element signature="e#16754#18815#0" />
+                <element signature="e#18821#20754#0" />
+                <element signature="e#20760#24383#0" />
+                <element signature="e#24389#26636#0" />
+                <element signature="e#26642#29012#0" />
+                <element signature="e#29018#31282#0" />
+                <element signature="e#31288#33592#0" />
+                <element signature="e#33853#34145#1" />
+                <element signature="e#34198#34496#1" />
+                <element signature="e#34555#35437#1" />
+                <element signature="e#35316#35427#1" />
+                <element signature="e#35482#35646#1" />
+                <element signature="e#37870#39822#0" />
+                <element signature="e#39828#42082#0" />
+                <element signature="e#42088#42814#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TriadBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+              <folding>
+                <element signature="method#TriadBuilder#0;class#TriadBuilder#0" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="method#create#1;class#TriadBuilder#0" />
+                <element signature="method#print#0;class#TriadBuilder#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Semantic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-290">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              <folding>
+                <element signature="method#Semantic#0;class#Semantic#0" />
+                <element signature="method#getCurrent#0;class#Semantic#0" />
+                <element signature="method#sem1#0;class#Semantic#0" />
+                <element signature="method#sem3#0;class#Semantic#0" />
+                <element signature="method#sem10#0;class#Semantic#0" />
+                <element signature="method#sem11#0;class#Semantic#0" />
+                <element signature="method#sem22#0;class#Semantic#0" />
+                <element signature="method#sem22Mod#0;class#Semantic#0" />
+                <element signature="method#sem13#0;class#Semantic#0" />
+                <element signature="method#sem13#1;class#Semantic#0" />
+                <element signature="method#sem14#0;class#Semantic#0" />
+                <element signature="method#sem20#0;class#Semantic#0" />
+                <element signature="method#sem23#0;class#Semantic#0" />
+                <element signature="method#sem24#0;class#Semantic#0" />
+                <element signature="method#sem24Mod#0;class#Semantic#0" />
+                <element signature="method#sovmestimie#0;class#Semantic#0" />
+                <element signature="method#sem32#0;class#Semantic#0" />
+                <element signature="method#sem32#1;class#Semantic#0" />
+                <element signature="method#sem31#0;class#Semantic#0" />
+                <element signature="method#sovmestimie#1;class#Semantic#0" />
+                <element signature="method#sem31#1;class#Semantic#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+              <folding>
+                <element signature="class#TableType#0" />
+                <element signature="method#getSting#0;class#TableType#0" />
+                <element signature="method#Node#0;class#Node#0" />
+                <element signature="method#Node#1;class#Node#0" />
+                <element signature="e#2334#2335#0" expanded="true" />
+                <element signature="method#copy#0;class#TData#0" />
+                <element signature="method#TData#0;class#TData#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+              <folding>
+                <element signature="method#Tree#0;class#Tree#0" />
+                <element signature="method#Tree#1;class#Tree#0" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="method#setRightPart#0;class#Tree#0" />
+                <element signature="method#findUp#1;class#Tree#0" />
+                <element signature="method#findRightLeft#0;class#Tree#0" />
+                <element signature="method#findUpOneLevel#0;class#Tree#0" />
+                <element signature="method#print#0;class#Tree#0" />
+                <element signature="method#copy#0;class#Tree#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Scaner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="321" selection-start-line="321" selection-end-line="321" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#Tuple#0" />
+                <element signature="e#2078#3468#0" />
+                <element signature="e#3749#9320#0" />
+                <element signature="e#9326#9855#0" />
+                <element signature="e#9861#10182#0" />
+                <element signature="e#10653#10747#0" />
+                <marker date="1539839968138" expanded="false" signature="356:1687" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inside</find>
+      <find>sem11</find>
+      <find>assi</find>
+      <find>ass</find>
+      <find>Требует</find>
+      <find>sem20</find>
+      <find>sem23</find>
+      <find>недопус</find>
+      <find>_for</find>
+      <find>printMessage</find>
+      <find>this.nameVariable</find>
+      <find>Невозможно</find>
+      <find>типов int-&gt;float</find>
+      <find>sovmes</find>
+      <find>sem13</find>
+      <find>sem10</find>
+      <find>dupC</find>
+      <find>for_</find>
+      <find>fIn</find>
+      <find>createVariable</find>
+      <find>first</find>
+      <find>sovme</find>
+      <find>increment</find>
+      <find>for</find>
+      <find>save</find>
+      <find>s</find>
+      <find>saveVa</find>
+      <find>FOR</find>
+      <find>compos</find>
+      <find>this.triadBuilder.create()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>public static final int</replace>
+      <replace>.setUk(uk1);  scaner.setSavePoint(savePoint1);</replace>
+      <replace>setUk(uk1);  scaner.setSavePoint(savePoint1);</replace>
+      <replace>savePointer</replace>
+      <replace>getUk</replace>
+      <replace>this.convertToString(operator)</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/SavePoint.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Scaner.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Tree.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Semantic.java" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/src/com/company/TriadBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Analizator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="y" value="26" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LAB_4_YAZIK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB_4_YAZIK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAB_4_YAZIK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB_4_YAZIK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAB_4_YAZIK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAB_4_YAZIK" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554038186956" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RiskLab2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mihail\IdeaProjects\LAB_4_YAZIK" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="LAB_4_YAZIK" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="254a96e0-a118-493c-ab4c-890a81e91e82" name="Default Changelist" comment="" />
+      <created>1538659813144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538659813144</updated>
+      <workItem from="1539764559730" duration="78594000" />
+      <workItem from="1540096211995" duration="48000" />
+      <workItem from="1550319395882" duration="36733000" />
+      <workItem from="1550661804561" duration="31174000" />
+      <workItem from="1550731950117" duration="24832000" />
+      <workItem from="1550844442337" duration="26940000" />
+      <workItem from="1551074385435" duration="8592000" />
+      <workItem from="1551241155756" duration="1575000" />
+      <workItem from="1551345654788" duration="360000" />
+      <workItem from="1551346082275" duration="246000" />
+      <workItem from="1551346816824" duration="14846000" />
+      <workItem from="1551592147505" duration="203000" />
+      <workItem from="1552642328002" duration="27117000" />
+      <workItem from="1552807767263" duration="83000" />
+      <workItem from="1553757171982" duration="2170000" />
+      <workItem from="1554013131572" duration="12939000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="266452000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1785174" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" sideWeight="0.49924356" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.43207857" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.77458394" weight="0.45826513" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.22541603" side_tool="true" weight="0.3764321" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven Projects" order="2" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Scaner.java</url>
+          <line>321</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>236</line>
+          <properties />
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>182</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>547</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1136</line>
+          <properties />
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1135</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1134</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1146</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1145</line>
+          <properties />
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1147</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1053</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1065</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1103</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>680</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>642</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>798</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>825</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>1014</line>
+          <properties />
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>1013</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>878</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>860</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>859</line>
+          <properties />
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>836</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>834</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>396</line>
+          <properties />
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>211</line>
+          <properties />
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>966</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>978</line>
+          <properties />
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1014</line>
+          <properties />
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>999</line>
+          <properties />
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1023</line>
+          <properties />
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>894</line>
+          <properties />
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>905</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>923</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>938</line>
+          <properties />
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>945</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>839</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>857</line>
+          <properties />
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>871</line>
+          <properties />
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>727</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>793</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>1033</line>
+          <properties />
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>1050</line>
+          <properties />
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>1083</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1301</line>
+          <properties />
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>873</line>
+          <properties />
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>558</line>
+          <properties />
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1305</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>505</line>
+          <properties />
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>524</line>
+          <properties />
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>483</line>
+          <properties />
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>443</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>291</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>321</line>
+          <properties />
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>329</line>
+          <properties />
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>344</line>
+          <properties />
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>842</line>
+          <properties />
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>616</line>
+          <properties />
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>206</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>265</line>
+          <properties />
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>254</line>
+          <properties />
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Semantic.java</url>
+          <line>326</line>
+          <properties />
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>507</line>
+          <properties />
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>639</line>
+          <properties />
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1271</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1131</line>
+          <properties />
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Analizator.java</url>
+          <line>1043</line>
+          <properties />
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="XBreakpointGroupingByClassRule" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="currentTree.rightPart" />
+        <watch expression="this.sema.current.rightPart.node" />
+        <watch expression="this.sema.current.rightPart.node" />
+        <watch expression="this.sema.current.rightPart.leftPart.leftPart.rightPart.node" />
+        <watch expression="((Tree)((Semantic)((Analizator)this).sema).current).leftPart" custom="com.company.Semantic,com.company.Analizator,com.company.Tree" />
+        <watch expression="this.sema.current.node" />
+        <watch expression="this.sema.current.node" language="JAVA" />
+        <watch expression="((Tree)((Tree)((Semantic)((Analizator)this).sema).current).rightPart).rightPart" custom="com.company.Semantic,com.company.Analizator,com.company.Tree" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>this.sema.current.node</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/SavePoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="1194" selection-start-line="1194" selection-end-line="1194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+          <folding>
+            <element signature="e#6326#6327#0" expanded="true" />
+            <element signature="e#6394#6395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="class#TableType#0" />
+            <element signature="method#getSting#0;class#TableType#0" />
+            <element signature="method#Node#0;class#Node#0" />
+            <element signature="method#Node#1;class#Node#0" />
+            <element signature="e#2334#2335#0" expanded="true" />
+            <element signature="method#copy#0;class#TData#0" />
+            <element signature="method#TData#0;class#TData#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding>
+            <element signature="method#Tree#0;class#Tree#0" />
+            <element signature="method#Tree#1;class#Tree#0" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="method#setRightPart#0;class#Tree#0" />
+            <element signature="method#findUp#1;class#Tree#0" />
+            <element signature="method#findRightLeft#0;class#Tree#0" />
+            <element signature="method#findUpOneLevel#0;class#Tree#0" />
+            <element signature="method#print#0;class#Tree#0" />
+            <element signature="method#copy#0;class#Tree#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Scaner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="321" selection-start-line="321" selection-end-line="321" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Tuple#0" />
+            <element signature="e#2078#3468#0" />
+            <element signature="e#3749#9320#0" />
+            <element signature="e#9326#9855#0" />
+            <element signature="e#9861#10182#0" />
+            <element signature="e#10653#10747#0" />
+            <marker date="1539839968138" expanded="false" signature="356:1687" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Semantic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-290">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="method#Semantic#0;class#Semantic#0" />
+            <element signature="method#getCurrent#0;class#Semantic#0" />
+            <element signature="method#sem1#0;class#Semantic#0" />
+            <element signature="method#sem3#0;class#Semantic#0" />
+            <element signature="method#sem10#0;class#Semantic#0" />
+            <element signature="method#sem11#0;class#Semantic#0" />
+            <element signature="method#sem22#0;class#Semantic#0" />
+            <element signature="method#sem22Mod#0;class#Semantic#0" />
+            <element signature="method#sem13#0;class#Semantic#0" />
+            <element signature="method#sem13#1;class#Semantic#0" />
+            <element signature="method#sem14#0;class#Semantic#0" />
+            <element signature="method#sem20#0;class#Semantic#0" />
+            <element signature="method#sem23#0;class#Semantic#0" />
+            <element signature="method#sem24#0;class#Semantic#0" />
+            <element signature="method#sem24Mod#0;class#Semantic#0" />
+            <element signature="method#sovmestimie#0;class#Semantic#0" />
+            <element signature="method#sem32#0;class#Semantic#0" />
+            <element signature="method#sem32#1;class#Semantic#0" />
+            <element signature="method#sem31#0;class#Semantic#0" />
+            <element signature="method#sovmestimie#1;class#Semantic#0" />
+            <element signature="method#sem31#1;class#Semantic#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/TriadBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+          <folding>
+            <element signature="method#TriadBuilder#0;class#TriadBuilder#0" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="method#create#1;class#TriadBuilder#0" />
+            <element signature="method#print#0;class#TriadBuilder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Analizator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="1141" selection-start-line="1141" selection-end-line="1141" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#361#607#0" />
+            <element signature="e#613#3471#0" />
+            <element signature="e#3477#6753#0" />
+            <element signature="e#6759#9261#0" />
+            <element signature="e#9267#10855#0" />
+            <element signature="e#10861#16748#0" />
+            <element signature="e#16754#18815#0" />
+            <element signature="e#18821#20754#0" />
+            <element signature="e#20760#24383#0" />
+            <element signature="e#24389#26636#0" />
+            <element signature="e#26642#29012#0" />
+            <element signature="e#29018#31282#0" />
+            <element signature="e#31288#33592#0" />
+            <element signature="e#33853#34145#1" />
+            <element signature="e#34198#34496#1" />
+            <element signature="e#34555#35437#1" />
+            <element signature="e#35316#35427#1" />
+            <element signature="e#35482#35646#1" />
+            <element signature="e#37870#39822#0" />
+            <element signature="e#39828#42082#0" />
+            <element signature="e#42088#42814#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LAB_4_YAZIK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
